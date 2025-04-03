@@ -1,1 +1,1 @@
-Simulation of mutual exclusion using the Token Ring Algorithm
+**SIMULATION OF MUTUAL EXCLUISION USING THE TOKEN RING ALGORITHM**
